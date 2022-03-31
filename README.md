@@ -4,4 +4,4 @@
 ### 安裝 faas-cli
 <code>curl -sSL https://cli.openfaas.com | sudo -E sh</code>>
 ### 透過faas下載template
-<code>faas template pull  https://github.com/sighfor1314/java8-marven></code>
+<code>faas template pull  https://github.com/sighfor1314/OpenFaaS-templates></code>
